@@ -49,4 +49,4 @@ This repository acts as a summary of my WordPress journey.
 ## 🎯 Why I’m on GitHub Now
 
 Although I’ve used Git + GitHub in internships and teams, I focused more on delivery than maintaining public repos.  
-I’m now actively contributing to the **open-source WordPress ecosystem** and learning in public.
+I’m now actively bringing and organizing my work on GitHub and learning in public.
